@@ -1,3 +1,1 @@
 Github on failide jagamis ja salvestamis platform mis on mõeldud tarkvaraarendajatele.
-githubi saan kasutada kodutööde salvestamiseks ja projektide salvestamiseks.
-Githubi on võimalik kasutada iga veebibrauseri ja internetiühendusega seadme peal.

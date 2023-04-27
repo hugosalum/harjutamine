@@ -1,3 +1,6 @@
 Github on failide jagamis ja salvestamis platform mis on mõeldud tarkvaraarendajatele.
 githubi saan kasutada kodutööde salvestamiseks ja projektide salvestamiseks.
 Githubi on võimalik kasutada iga veebibrauseri ja internetiühendusega seadme peal.
+
+Githubi asutasid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon 19. oktoobril 2007.
+Kasutada sai veebisaiti juba aprillis aastal 2008.
